@@ -1,0 +1,228 @@
+﻿.zagolovok1 {
+	font-family:Georgia;
+	font-size: 28px;
+	font-weight: 37.4px;
+	font-weight: regular;
+	margin-left: 18px;
+}
+.text1 {
+	font-family:Sans-Serif;
+	font-size: 12px;
+	font-weight: 20.5px;
+	padding-bottom: 20px;
+	margin-left: 20px;
+}
+.text2 {
+	font-family:Sans-serif;
+	font-size: 14px;
+	font-weight: 22.4px;
+	padding-bottom: 10px;
+	margin-left: 20px;
+}
+.txtimage1 {
+	font-family:Sans-serif;
+	font-size: 15px;
+	font-weight: 18.9px;
+	text-align: center;
+	font-weight: bold;
+}
+.txtimage2 {
+	font-family:Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	text-align: center;
+	
+}	
+.txtimage3 {
+	background: #FFC0CB;
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: bold;
+	text-align: center;
+	
+}
+.txtimage4 {
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: regular;
+	text-align: center;
+}
+.txtimage5 {
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: regular;
+	text-align: center;
+	padding-right: 48px;
+}
+.txtimage6 {
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: regular;
+	text-align: center;
+	padding-right: 48px;
+}
+.txtimage7 {
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: bold;
+	text-align: center;
+	background: #FFC0CB;
+}
+.txtimage8 {
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: regular;
+	text-align: center;	
+}
+.txtimage9 {
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: regular;
+	text-align: center;	
+	padding-right: 103px;
+}
+.txtimage10 {
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: regular;
+	text-align: center;	
+	padding-right: 113px;
+}
+.txtimage11 {
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: regular;
+	text-align: center;	
+	padding-right: 120px;
+}
+.txtimage12 {
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: regular;
+	text-align: center;
+	padding-left: 70px;
+	padding-right: 10px;
+}
+.txtimage13 {
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: regular;
+	text-align: center;
+	padding-right: 70px;
+	
+}
+.txtimage14 {
+	font-family: Sans-serif;
+	font-size: 12px;
+	font-weight: 18.9px;
+	font-weight: regular;
+	text-align: center;
+	padding-right: 65px;
+	padding-left: 60px;
+	
+}
+.imagebandera {
+	float: right;
+	border: 1px solid black;
+	width: 300px;
+	height: 800px;
+	text-align: center;
+
+	
+}
+.block2 {
+	font-family: Sans-serif;
+	font-size: 14px;
+	font-weight: 22.4px;
+	text-align: justify;
+	padding-right: 340px;
+	line-height: 20px;
+	margin-left: 20px;
+}
+.block3 {
+	border:1px solid black;
+	width: 560px;
+	height: 970px;
+	text-align: justify;
+	line-height: 25px;
+	font-family: Sans-serif;
+	font-size: 13px;
+	font-weight: 21.3px;
+	margin-top: 20px;
+	margin-left: 20px;
+	padding-left: 10px;
+}
+.txttabl1 {
+	text-align:center;
+}
+.zagolovok2 {
+	font-family:Georgia;
+	font-size: 21px;
+	font-weight: 27.3px;
+	margin-left: 20px;
+	font-weight: regular;
+	margin-top: 25px;
+}
+.block5 {
+	font-family:Georgia;
+	font-size: 14px;
+	font-weight: 22.4px;
+	margin-left: 20px;
+	font-weight: regular;
+	text-align: left;
+	line-height: 20px;
+}
+.zagolovok3 {
+	font-family:Georgia;
+	font-size: 21px;
+	font-weight: 27.3px;
+	margin-left: 20px;
+	font-weight: regular;
+	margin-top: 25px;
+}
+.imgleft {
+	display: inline-block;
+	float:left;
+	
+}
+.imgright {
+	float:right;
+	display: inline-block;
+}
+.block6 {
+	font-family:Georgia;
+	font-size: 14px;
+	font-weight: 22.4px;
+	margin-left: 20px;
+	text-align: left;
+	line-height: 20px;
+}
+.zagolovok4 {
+	font-family:Georgia;
+	font-size: 21px;
+	font-weight: 27.3px;
+	margin-left: 20px;
+	margin-top: 25px;
+}
+.ugriniv{
+	float:right;
+}
+.block7 {
+	font-family:Georgia;
+	font-size: 14px;
+	font-weight: 22.4px;
+	margin-left: 20px;
+	text-align: left;
+	line-height: 20px;
+}
